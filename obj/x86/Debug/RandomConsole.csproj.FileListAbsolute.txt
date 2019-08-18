@@ -1,0 +1,11 @@
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\RandomConsole.exe
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\RandomConsole.pdb
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\mscorlib.dll
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\normidna.nlp
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\normnfc.nlp
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\normnfd.nlp
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\normnfkc.nlp
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\bin\Debug\normnfkd.nlp
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\obj\x86\Debug\RandomConsole.csprojResolveAssemblyReference.cache
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\obj\x86\Debug\RandomConsole.exe
+C:\Users\Bartek Rybak\Documents\Projects\RandomConsole\RandomConsole\obj\x86\Debug\RandomConsole.pdb
